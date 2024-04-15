@@ -1,0 +1,19 @@
+{
+  "name": "appbackend",
+  "version": "1.0.0",
+  "description": "backend app with nodejs + express js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keerthana077/appBackend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Keerthana077/appBackend/issues"
+  },
+  "homepage": "https://github.com/Keerthana077/appBackend#readme"
+}
